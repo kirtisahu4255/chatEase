@@ -1,6 +1,6 @@
-# ChatEase 
+# LinkUp 
 
-ChatEase  is a real-time chat application built using Node.js, Socket.io, and EJS. This application allows users to engage in dynamic discussions within multiple chat rooms, enhancing engagement and transparency by displaying active users in each room.
+LinkUp  is a real-time chat application built using Node.js, Socket.io, and EJS. This application allows users to engage in dynamic discussions within multiple chat rooms, enhancing engagement and transparency by displaying active users in each room.
 
 ## Features
 
